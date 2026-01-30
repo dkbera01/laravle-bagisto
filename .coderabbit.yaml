@@ -1,0 +1,9 @@
+review:
+  level: detailed
+  auto_summary: true
+  comment_style: inline
+  focus:
+    - bugs
+    - security
+    - performance
+    - readability
